@@ -103,7 +103,7 @@ ul li a:hover {
 }
 
 .course-section {
-    display: none;
+    display: block;
     background: white;
     max-width: 800px;
     margin: 30px auto;
